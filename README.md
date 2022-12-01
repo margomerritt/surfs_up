@@ -26,3 +26,4 @@ Results from the summary statistics tables:
 
 
 ## Summary 
+Using our two summary tables produced we can compare and contrast the temperatures in June and December. The maximum temperatures for both months were fairly close with June having a high of 85.0 degrees and December having a high of 83.0 degrees. June had a low of 64.0 degrees. The December months on Oahu are a bit colder with a low of 56.0 degrees. On average, June is a bit warmer than December since June has a mean temperature of 74.94 and December has a mean temperature of 71.04 degrees. 
