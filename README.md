@@ -19,6 +19,10 @@ The summary statistics table the temperatures in the month of December are:
 
 ![December temperature summary statistics](https://user-images.githubusercontent.com/111299372/205147434-bdacb1f9-6daa-4126-b67b-1620eb8c2572.png)
 
+Results from the summary statistics tables:
+* The minimum temperature was found for both months. In June the lowest temperature was 64.0 degrees. In December the lowest temperature was 56.0 degrees.
+* The highs were reported to be 85.0 degrees in June and 83.0 degrees in December.
+* The average temperature was calculated for each month and displayed as the mean in the summary statistics table. In June the mean was 74.94 degrees. In December the mean was 71.04 degrees. 
 
 
 ## Summary 
