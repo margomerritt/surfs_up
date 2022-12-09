@@ -9,10 +9,6 @@ Data Source: hawaii.sqlite
 
 Software: SQLite 3.38.2, SQLAlchemy, Python 3.9.12, Jupyter Notebook 6.4.8, Pandas 1.4.2
 
-## Link to Tableau Dashboard
-
-https://public.tableau.com/app/profile/margo.merritt/viz/BikesharingVisualizationandAnalysis/NYCCitibikeAnalysis?publish=yes
-
 ## Results
 Two summary statistics tables were produced using Pandas, one for the June temperatures and one for the December temperatures. 
 
